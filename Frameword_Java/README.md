@@ -22,7 +22,7 @@ O sistema permite as seguintes operações:
 5. **Deletar Produto**: Remove um produto do repositório.
 
 ## Estrutura do Projeto
-<img src="assets/estrutura_framework.png" alt="Estrutura do Projeto" width="500">
+![estrutura_framework](https://github.com/user-attachments/assets/c1e4e687-f4d4-43ec-81ee-b39193e3ffab)
 
 ## Como Usar
 
@@ -57,3 +57,13 @@ javac org/example/*.java org/example/repository/*.java org/example/utils/*.java 
 Ou faça por uma IDE como o vscode ou Intellij
 
 Agora chame a biblioteca(.jar) no seu projeto e use a vontade!
+
+
+## Logs de uso.
+
+![log1](https://github.com/user-attachments/assets/9ca79cd9-3425-47a7-95ca-1b09ec93e726)
+
+![log2](https://github.com/user-attachments/assets/d87bc16b-0545-40c8-9739-dfecd08936af)
+
+![log3](https://github.com/user-attachments/assets/10d90cf4-b159-4e36-ae46-846467fcee1c)
+
